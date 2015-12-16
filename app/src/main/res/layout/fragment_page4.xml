@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="这是页面4"
+        android:text="厌氧菌是sb"
         android:textSize="100px"
         android:gravity="center"/>
 
